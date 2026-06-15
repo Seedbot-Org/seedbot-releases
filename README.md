@@ -1,5 +1,25 @@
 # seedbot-releases
 
+## v1.1.63-beta — June 15, 2026
+
+## What's Changed
+* fix: wire simulation IPC channels, pass accountId in Flip bets, and fix beta update feed by @joshuapregua in https://github.com/Seedbot-Org/seedbot-app/pull/83
+* feat: game integration overhaul - originals + simulation parity across all Stake games by @joshuapregua in https://github.com/Seedbot-Org/seedbot-app/pull/84
+
+
+**Full Changelog**: https://github.com/Seedbot-Org/seedbot-app/compare/v1.1.51-beta...v1.1.63-beta
+
+- [Download for Windows](https://github.com/Seedbot-Org/seedbot-releases/releases/download/v1.1.63-beta/Seedbot Beta Setup 1.1.63-beta.exe)
+- [Download for macOS Apple Silicon (.dmg)](https://github.com/Seedbot-Org/seedbot-releases/releases/download/v1.1.63-beta/Seedbot Beta-1.1.63-beta-arm64.dmg)
+- [Download for macOS Intel (.dmg)](https://github.com/Seedbot-Org/seedbot-releases/releases/download/v1.1.63-beta/Seedbot Beta-1.1.63-beta.dmg)
+- [Download for macOS Apple Silicon (.zip)](https://github.com/Seedbot-Org/seedbot-releases/releases/download/v1.1.63-beta/Seedbot Beta-1.1.63-beta-arm64-mac.zip)
+- [Download for macOS Intel (.zip)](https://github.com/Seedbot-Org/seedbot-releases/releases/download/v1.1.63-beta/Seedbot Beta-1.1.63-beta-mac.zip)
+- [Download for Linux (.deb)](https://github.com/Seedbot-Org/seedbot-releases/releases/download/v1.1.63-beta/seedbot-app_1.1.63-beta_amd64.deb)
+- [Download for Linux (.AppImage)](https://github.com/Seedbot-Org/seedbot-releases/releases/download/v1.1.63-beta/Seedbot Beta-1.1.63-beta.AppImage)
+
+---
+
+
 ## v1.1.51-beta — June 15, 2026
 
 ## What's Changed
